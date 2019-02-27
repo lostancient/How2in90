@@ -10,7 +10,11 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/lostancient/how2in90"
+=======
+    "url": ""
+>>>>>>> 6b85b234ea093dc22c05bc33c4eb2c65172f1dff
   },
   "author": "",
   "license": "ISC",
